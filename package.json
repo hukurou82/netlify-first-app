@@ -35,9 +35,21 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
-    "typescript": "~4.2.3"
+    "typescript": "^4.2.4"
   },
   "resolutions": {
     "terser": "3.14.1"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hukurou82/netlify-first-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hukurou82/netlify-first-app/issues"
+  },
+  "homepage": "https://github.com/hukurou82/netlify-first-app#readme"
 }
