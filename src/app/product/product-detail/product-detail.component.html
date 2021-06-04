@@ -1,0 +1,58 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img
+        class="first-slide"
+        src="{{ product.mainImage }}"
+        alt="First slide"
+      />
+      <div class="container">
+        <div class="carousel-caption text-left">
+          <h1>{{ product.name }}</h1>
+          <p>
+            {{ product.description }}
+          </p>
+          <p>
+            <!-- <a class="btn btn-lg btn-primary" href="#" role="button">
+              $ {{ product.price }}
+            </a> -->
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Marketing messaging and featurettes
+================================================== -->
+<!-- Wrap the rest of the page in another container to center all the content. -->
+
+<hr class="featurette-divider" />
+
+<div class="container marketing">
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
+    <div class="col-lg-4">
+      <h2>{{ product.heding1 }}</h2>
+      <p>
+        {{ product.headingtext1 }}
+      </p>
+    </div>
+    <!-- /.col-lg-4 -->
+    <div class="col-lg-4">
+      <h2>{{ product.heding2 }}</h2>
+      <p>
+        {{ product.headingtext2 }}
+      </p>
+    </div>
+    <!-- /.col-lg-4 -->
+    <div class="col-lg-4">
+      <h2>{{ product.heding3 }}</h2>
+      <p>
+        {{ product.headingtext3 }}
+      </p>
+    </div>
+    <!-- /.col-lg-4 -->
+  </div>
+  <!-- /.row -->
+</div>
