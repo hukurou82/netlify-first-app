@@ -2,6 +2,9 @@ export const products = [
   {
     coverImage: './assets/img/cycle1.png',
     mainImage: './assets/img/cycle2.jpg',
+    sabImage1: './assets/img/cycle3.jpg',
+    sabImage2: './assets/img/cycle4.jpg',
+    sabImage3: './assets/img/cycle5.jpg',
     name: '自転車',
     description: 'サイクリングを楽しもう',
     heding1: 'メリット1：ごはんがおいしい',
@@ -15,6 +18,9 @@ export const products = [
   {
     coverImage: './assets/img/run1.png',
     mainImage: './assets/img/run2.jpg',
+    sabImage1: './assets/img/run3.jpg',
+    sabImage2: './assets/img/run4.jpg',
+    sabImage3: './assets/img/run5.jpg',
     name: 'ラン、トレイルラン',
     description: '走ってみよう',
     heding1: 'メリット1：必要道具は最低限',
@@ -28,6 +34,9 @@ export const products = [
   {
     coverImage: './assets/img/yama1.png',
     mainImage: './assets/img/yama2.jpg',
+    sabImage1: './assets/img/yama3.jpg',
+    sabImage2: './assets/img/yama4.jpg',
+    sabImage3: './assets/img/yama5.jpg',
     name: '登山',
     description: '山に登ろう',
     heding1: 'メリット1：景色がいい',
@@ -41,6 +50,9 @@ export const products = [
   {
     coverImage: './assets/img/bike1.png',
     mainImage: './assets/img/bike2.jpg',
+    sabImage1: './assets/img/bike3.jpg',
+    sabImage2: './assets/img/bike4.jpg',
+    sabImage3: './assets/img/bike5.jpg',
     name: 'オフロードバイク',
     description: 'エンデューロ',
     heding1: 'メリット1：アクセルをぶん回す快感',
