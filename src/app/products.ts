@@ -10,6 +10,7 @@ export const products = [
     headingtext1: '食べて痩せる事は健康である',
     headingtext2: '膝の故障もランニングより少ない',
     headingtext3: '美脚を手に入れたい方にピッタリ',
+    text: '北海道、四国一周、埼玉～金沢の約500km、レースなど様々なフィールドで活動をしてきました。ダウンヒルで鎖骨を粉砕骨折。意識が飛ぶ一歩手前まで追い込むレースは気持ちがいいぞ。',
   },
   {
     coverImage: './assets/img/run1.png',
@@ -22,6 +23,7 @@ export const products = [
     headingtext1: 'ランニングシューズさえあれば手軽に楽しめる',
     headingtext2: 'トレイルランは自然を走るので気持ちがいい',
     headingtext3: '疲れた後の温泉は最高',
+    text: 'ハーフマラソンやトレイルランを定期的に楽しみます。冬がメインシーズンで寒い中半袖短パンで走り休憩の時火照った身体をクールダウンすると気持ちがいいぞ。',
   },
   {
     coverImage: './assets/img/yama1.png',
@@ -34,6 +36,7 @@ export const products = [
     headingtext1: '稜線は遮るものが無く見渡す限り絶景',
     headingtext2: '時には荒れて自然にはかなわないと知る',
     headingtext3: 'ツラくなった時に頼れるのは自分だけ',
+    text: 'スピードクライムが好き。一度冬山で現在地をロストしかけ遭難して死にそうになったことがある。GPSは持ち歩け。',
   },
   {
     coverImage: './assets/img/bike1.png',
@@ -46,5 +49,6 @@ export const products = [
     headingtext1: 'コースに行けば道路交通法は無い。思いっきりぶん回そう',
     headingtext2: 'ダートは舗装路のように走れない。バイクを取りまわす楽しさ',
     headingtext3: 'ダートの上でバランスを取るのは至難の業。体感が強くなる',
+    text: 'オンロードでは北海道一周、日本横断。オフロードではエンデューロレースに出たりコースで練習したりしている。3m位の高さから着地を失敗して鎖骨を粉砕骨折した。痛いぞ。',
   },
 ];
